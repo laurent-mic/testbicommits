@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "big txt tst failure"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7d8a4975-f9fc-a150-47ae-02cdff19052c"
+  }
+}
