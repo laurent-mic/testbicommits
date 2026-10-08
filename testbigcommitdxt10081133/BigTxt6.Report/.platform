@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "BigTxt6"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0ba058a9-dfc0-9ca6-414f-30d5227d0658"
+  }
+}
