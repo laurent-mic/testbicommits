@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Artifact D"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f80f94da-6f3e-80b8-419a-a7365e0539d6"
+  }
+}
